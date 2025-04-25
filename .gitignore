@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+env/
+venv/
+ENV/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Output directory
+scada_analysis_results/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Config files with sensitive information
+config.ini
+config.json
+
+# OS specific
+.DS_Store
